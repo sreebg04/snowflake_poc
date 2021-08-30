@@ -1,0 +1,13 @@
+{"userid":"sree",
+"password":"Sisi@1234",
+"account":"cca13114.us-east-1",
+  "schema": "PUBLIC",
+  "database": ["local_2_snowflake","local2snowflake2"],
+  "warehouse": "COMPUTE_WH",
+  "filesource": "/mnt/c/data_source/source",
+  "archive": "/mnt/c/data_source/Archive",
+  "temp": "/mnt/c/data_source/temp",
+"role": "ACCOUNTADMIN",
+"client1": ["demotable1_1_.csv", "demotable1_2_.csv"],
+  "client2": ["demotable2_1_.csv", "demotable2_2_.csv"]
+  }
